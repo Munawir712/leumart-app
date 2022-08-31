@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ransel_app/pages/login_page.dart';
-import 'package:ransel_app/pages/theme.dart';
+import 'package:leumart_app/pages/login_page.dart';
+import 'package:leumart_app/pages/theme.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ransel_app/pages/theme.dart';
+import 'package:leumart_app/pages/theme.dart';
 
 import '../data_dummy.dart';
 import '../widget/bubble_notification.dart';

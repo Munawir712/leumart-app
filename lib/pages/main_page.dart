@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ransel_app/pages/home_page.dart';
-import 'package:ransel_app/pages/theme.dart';
+import 'package:leumart_app/pages/home_page.dart';
+import 'package:leumart_app/pages/theme.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);

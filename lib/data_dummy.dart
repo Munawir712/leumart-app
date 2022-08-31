@@ -40,8 +40,8 @@ List<Map> produkTerbaruList = [
   {
     'imgUrl': 'p_4.png',
     'nama': 'Coca Cola Kemasan Botol Reguler',
-    'harga': 'Rp 5.000',
-    'hargaDiskon': 'Rp 12.000',
+    'harga': 'Rp 12.000',
+    'hargaDiskon': 'Rp 5.000',
     'ketDiskon': 'Diskon 25%'
   },
   {

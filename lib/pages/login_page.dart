@@ -1,10 +1,10 @@
 import 'dart:developer';
 
 import 'package:flutter/material.dart';
-import 'package:ransel_app/pages/forgot_password_page.dart';
-import 'package:ransel_app/pages/main_page.dart';
-import 'package:ransel_app/pages/register_page.dart';
-import 'package:ransel_app/pages/theme.dart';
+import 'package:leumart_app/pages/forgot_password_page.dart';
+import 'package:leumart_app/pages/main_page.dart';
+import 'package:leumart_app/pages/register_page.dart';
+import 'package:leumart_app/pages/theme.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);
